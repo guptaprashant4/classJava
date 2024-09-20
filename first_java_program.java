@@ -4,7 +4,7 @@
  * Date modified: 18 Aug 2023
  */
 
-public class M1_Lab1 {
+public class first_java_program {
 
     public static void main(String[] args) {
 
